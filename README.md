@@ -21,10 +21,14 @@ Rather than relying on single items, this project builds small composite indices
 ## Findings
 
 1. **Alcohol involvement** (weekday + weekend drinking) formed a reliable 2-item scale (ρ_SB = 0.780, 95% CI ≈ 0.73–0.82).  
-2. **Socializing risk** (adding “goout”) reduced reliability (ordinal α = 0.693). Dropping `goout` restored scale strength.  
-3. **Other composites** like *social support* (α = 0.060) and *academic engagement* (ρ_SB = 0.27) showed very poor reliability.  
-   → These failures highlight why validated instruments are essential.  
-4. Male students showed slightly higher mean scores on alcohol and socializing composites than female students.  
+2. **Socializing risk** (adding “goout”) weakened reliability (ordinal α = 0.693). Dropping `goout` restored scale strength.  
+3. **Other composites**:  
+   * Social support (famrel + famsup + schoolsup) → α = 0.060  
+   * Academic engagement (studytime + low_failures) → ρ_SB = 0.272  
+   * Family functioning (famrel + health) → ρ_SB = 0.157  
+   These very low reliabilities show why validated scales are critical instead of ad-hoc composites.  
+4. Male students reported slightly higher average scores on alcohol involvement and socializing composites than female students.
+
 
 ## Files in this Repository
 
